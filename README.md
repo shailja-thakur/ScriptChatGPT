@@ -8,7 +8,7 @@ ScriptChatGPT is a python wrapper for generating response from ChatGPT
 ### Getting Started
 1. Clone the repository
 2. Install the requirements using `pip install -r requirements.txt`
-3. Open `config.json` and enter your email and password.
+3. Open `config.json` and enter your email and password (Signup on OpenAI and use the credentials not the google credentials).
 4. Run `main.py` and let the script do the rest.
 
 
