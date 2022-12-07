@@ -15,4 +15,4 @@ ScriptChatGPT is a python wrapper for generating response from ChatGPT
 ### Credits
 - [OpenAI](https://openai.com/) for creating the ChatGPT API
 - [FlorianREGAZ](https://github.com/FlorianREGAZ) for the TLS Client
-- [Rawand Ahmed Shaswar] (https://github.com/rawandahmad698/PyChatGPT) for OpenAI authentication scripts
+- [Rawand Ahmed Shaswar](https://github.com/rawandahmad698/PyChatGPT) for OpenAI authentication scripts
